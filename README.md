@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spinshin
 - 👀 I’m interested in backend programming.
 - 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on IOS
 - 📫 Reach me on katkar.p@sparrowrms.in
 
 <!---
